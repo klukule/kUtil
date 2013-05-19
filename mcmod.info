@@ -1,0 +1,21 @@
+[
+{
+  "modid" : "klukuleUtil",
+  "name" : "klukuleUtil",
+  "version" : "1.0.1",
+  "url" : "http://www.klukule.moowdesign.eu/",
+  "credits" : "",
+  "authors": [
+    "klukule"
+  ],
+  "description": "Shared library mod required by several of klukule's Mods.",
+  "logoFile" : "",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ],
+  "dependancies": [
+    "Forge"
+  ]
+}
+]
